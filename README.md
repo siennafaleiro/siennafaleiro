@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Courses**
 
+- 👨‍💻 All of my projects are available at https://github.com/siennafaleiro
+
 - 📝 I regularly write articles on [https://www.certfun.com/blog](https://www.certfun.com/blog)
 
 - 💬 Ask me about **IT Professional**
