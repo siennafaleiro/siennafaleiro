@@ -11,6 +11,15 @@
 
 - 💬 Ask me about **IT Professional**
 
+
+## My Projects
+
+🏗️ Below are my highlight repositories:
+- ➡️ ROM2 Exam: 🚀 [Robotic-Operating-Model-2-Practice-Test](https://github.com/siennafaleiro/Robotic-Operating-Model-2-Practice-Test)
+- ➡️ EC-Council Exam: [Malware-Analysis-Fundamentals-EC-Council-Oriented-Guide](https://github.com/siennafaleiro/Malware-Analysis-Fundamentals-EC-Council-Oriented-Guide)
+- ➡️ Comptia A Plus Exam: [Comptia-A-Plus-Practice-Questions-Topic-Hardware-and-Network-Troubleshooting](https://github.com/siennafaleiro/Comptia-A-Plus-Practice-Questions-Topic-Hardware-and-Network-Troubleshooting)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sienna-faleiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sienna-faleiro" height="30" width="40" /></a>
