@@ -17,6 +17,7 @@
 ## My Projects
 
 🏗️ Below are my highlight repositories:
+- ➡️ Comptia A Plus Exam Core 1 (220-1101): [CompTIA-A-Plus-Practice-Questions](https://github.com/siennafaleiro/CompTIA-A-Plus-Practice-Questions)
 - ➡️ ROM2 Exam: 🚀 [Robotic-Operating-Model-2-Practice-Test](https://github.com/siennafaleiro/Robotic-Operating-Model-2-Practice-Test)
 - ➡️ EC-Council Exam: [Malware-Analysis-Fundamentals-EC-Council-Oriented-Guide](https://github.com/siennafaleiro/Malware-Analysis-Fundamentals-EC-Council-Oriented-Guide)
 - ➡️ Comptia A Plus Exam: [Comptia-A-Plus-Practice-Questions-Topic-Hardware-and-Network-Troubleshooting](https://github.com/siennafaleiro/Comptia-A-Plus-Practice-Questions-Topic-Hardware-and-Network-Troubleshooting)
