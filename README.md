@@ -21,6 +21,7 @@
 - ➡️ ROM2 Exam: 🚀 [Robotic-Operating-Model-2-Practice-Test](https://github.com/siennafaleiro/Robotic-Operating-Model-2-Practice-Test)
 - ➡️ EC-Council Exam: [Malware-Analysis-Fundamentals-EC-Council-Oriented-Guide](https://github.com/siennafaleiro/Malware-Analysis-Fundamentals-EC-Council-Oriented-Guide)
 - ➡️ Comptia A Plus Exam: [Comptia-A-Plus-Practice-Questions-Topic-Hardware-and-Network-Troubleshooting](https://github.com/siennafaleiro/Comptia-A-Plus-Practice-Questions-Topic-Hardware-and-Network-Troubleshooting)
+- ➡️ CompTIA SecurityX: [Mastering the SecurityX Certification From Preparation to Success](https://github.com/siennafaleiro/Mastering-the-SecurityX-Certification-From-Preparation-to-Success)
 
 
 <h3 align="left">Connect with me:</h3>
