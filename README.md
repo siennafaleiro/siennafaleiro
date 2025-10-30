@@ -22,6 +22,7 @@
 - ➡️ EC-Council Exam: [Malware-Analysis-Fundamentals-EC-Council-Oriented-Guide](https://github.com/siennafaleiro/Malware-Analysis-Fundamentals-EC-Council-Oriented-Guide)
 - ➡️ Comptia A Plus Exam: [Comptia-A-Plus-Practice-Questions-Topic-Hardware-and-Network-Troubleshooting](https://github.com/siennafaleiro/Comptia-A-Plus-Practice-Questions-Topic-Hardware-and-Network-Troubleshooting)
 - ➡️ CompTIA SecurityX: [Mastering the SecurityX Certification From Preparation to Success](https://github.com/siennafaleiro/Mastering-the-SecurityX-Certification-From-Preparation-to-Success)
+- ➡️ UiPath Certification: [UiPath Certification: Cost, Types & Benefits | Worth It?](https://github.com/siennafaleiro/UiPath-Certification-Cost-Types-Benefits-Worth-It)
 
 
 <h3 align="left">Connect with me:</h3>
